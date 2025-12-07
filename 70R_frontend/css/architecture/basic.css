@@ -1,0 +1,165 @@
+ul{
+    /* border: 2px solid;  */ */
+    height: 50px;
+    width: 100%;
+    list-style: none;
+}
+
+.li4 {
+    margin-left: 90%;
+    margin-top: -4.5%;
+
+}
+
+.li3 {
+    margin-left: 81%;
+    margin-top: -4.5%;
+
+}
+
+.li2 {
+    margin-left: 70%;
+    margin-top: -4.5%;
+
+}
+
+.li1 {
+    margin-left: 1%;
+
+}
+
+
+h1{
+    height: 50px;
+    width: 100%;
+}
+
+.navbar1{
+    height: 800px;
+    width: 100%;
+    /* border: 2px solid; */
+}
+
+ul ul{
+    height: 200px;
+    width: 100%;
+    list-style: none;
+
+}
+
+
+.li7{
+    margin-left: 70%;
+    margin-top: -22.5%;
+}
+
+.li6{
+    margin-left: 35%;
+    margin-top: -22.5%;
+}
+
+.li5{
+    margin-left:5px;
+    margin-top: 1%;
+}
+
+
+.li10{
+    margin-left: 70%;
+    margin-top: -22.5%;
+}
+
+.li9{
+    margin-left: 35%;
+    margin-top: -22.5%;
+
+}
+
+.li8{
+    margin-left: 5px;
+    margin-top: 1%;
+}
+
+h1 h1{
+    height: 50px;
+    width: 100%;
+}
+
+
+.li13{
+    margin-left: 70%;
+    margin-top: -32%;
+}
+
+.li12{
+    margin-left: 35%;
+    margin-top: -32%;
+}
+
+.li11{
+    margin-left: 5px;
+    margin-top: 1%;
+}
+
+.li11 p{
+    width: 500px;
+}
+
+.li12 p{
+    width: 500px;
+}
+
+.li13 p{
+    width: 500px;
+}
+
+
+.nav1 input{
+    width: 100%;
+    height: 30px;
+}
+
+.nav2 input{
+    width: 100%;
+    height: 30px;
+}
+
+.nav3 input{
+    width: 100%;
+    height: 30px;
+}
+
+.nav4 input{
+    width: 100%;
+    height: 30px;
+}
+
+
+.li11 button{
+    width: 500px;
+}
+
+.li12 button{
+    width: 500px;
+
+}
+
+.li13 button{
+    width: 500px;
+}
+
+nav button{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+
+
+nav h3{
+    height: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+    
