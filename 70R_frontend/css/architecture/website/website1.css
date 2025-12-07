@@ -1,0 +1,221 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.navbar{
+    /* border: 2px solid; */
+    display: flex;
+    height: 60px;
+    align-items: center;
+    gap: 30px;
+    background-color: gray;
+    color: white;
+    position: sticky;
+    top: 0%;
+    z-index: 2;
+}
+
+.section1{
+    /* border: 2px solid; */
+    height: 500px;
+    background-image: url(https://www.w3schools.com/w3images/parallax1.jpg);
+    background-size: cover;
+    background-position-y:-40px ;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+
+}
+
+.logo{
+    /* border: 2px solid; */
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    letter-spacing: 10px;
+    padding: 20px;
+}
+
+.section2{
+    /* border: 2px solid; */
+    /* height: 300px; */
+    text-align: center;
+    padding: 50px;
+    color: rgb(167, 153, 153);
+
+}
+
+.para1{
+    /* border: 2px solid; */
+    width: 800px;
+    text-align: left;
+    padding: 20px;
+    margin-left:22%;
+    font-size: 20px;
+    color: lightgrey;
+
+
+}
+
+.section3{
+    /* border: 2px solid red; */
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+
+.div1{
+    /* border: 2px solid blue; */
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+
+.img1{
+    opacity: 0.6;
+}
+
+.img1:hover{
+    opacity: 1;
+
+}
+
+.section4{
+    /* border: 2px solid red; */
+    height: 200px;
+
+}
+
+.div2{
+    letter-spacing: 10px;
+    color: gray;
+
+
+}
+
+.section5{
+    border: 2px solid;
+    height: 100px;
+
+}
+
+.navbar2{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    gap: 30px;
+    background-color: gray;
+    color: white;
+    justify-content: space-around;
+}
+
+.section6{
+    border: 2px solid;
+    height: 800px;
+    background-image: url(https://www.w3schools.com/w3images/parallax2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y:-100px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    letter-spacing: 10px;
+
+}
+
+.section7{
+    /* border: 2px solid; */
+    height: 200px;
+    text-align: center;
+}
+
+.section8{
+    /* border: 2px solid; */
+    height:300px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    
+}
+.section9{
+    /* border: 2px solid; */
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+.section10{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.section11{
+    /* border: 2px solid; */
+    height: 500px;
+    background-image: url(https://www.w3schools.com/w3images/parallax3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -250px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    letter-spacing: 10px;
+    
+
+
+}
+
+.section13{
+    /* border: 2px solid; */
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.div5{
+    /* border: 2px solid; */
+    height: 300px;
+    width: 300px;
+    /* background-size: cover; */
+    
+}
+   
+
+.img2{
+    opacity: 0.6;
+}
+
+.img2:hover{
+    opacity: 1;
+
+}
+
+
+.div6{
+    display: flex;
+    
+}
+ 
+
+
+
