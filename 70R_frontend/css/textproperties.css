@@ -1,0 +1,22 @@
+.para0{
+    color: blue;
+    /*text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-thickness:5px;
+    text-decoration-style:wavy;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    line-height: 30px
+    text-indent: 40px;
+    text-shadow: 3px 3px 3px red;
+    text-transform: capitalize;*/
+    
+
+}
+
+h1{
+    letter-spacing: 5px;
+    text-align: center;
+    text-shadow: 0px 0px 5px black;
+    text-transform: uppercase;
+}

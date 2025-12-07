@@ -1,0 +1,22 @@
+/* div{
+    border: 2px solid;
+    height: 300px;
+    width: 500px; */
+    /* background-color: orange; */
+    /* background-image: url("https://tse2.mm.bing.net/th/id/OIP.G37tgeQqSNt7v2oPfj9ltQHaE7?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    /* background-position-x: 100px;
+    background-position-y: 100px; */
+    /* background-position: 50px 50px; */
+    /* background-attachment: scroll;
+    
+} */
+
+ body{
+    background-color: aqua;
+    background-image: url("https://tse2.mm.bing.net/th/id/OIP.G37tgeQqSNt7v2oPfj9ltQHaE7?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+} 

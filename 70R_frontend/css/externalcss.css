@@ -1,0 +1,17 @@
+img{
+    height: 200px;
+    width: 300px;
+    
+}
+
+p{
+    color:blue;
+    font-size: 12px;
+    text-align: center;
+}
+section{
+    border: 2px solid red;
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+}

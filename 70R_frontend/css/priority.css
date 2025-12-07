@@ -1,0 +1,7 @@
+@import url("./import.css");
+
+p{
+    color: aqua;
+    background-color: blue;
+    font-size: 25px;
+}
